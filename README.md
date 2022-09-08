@@ -1,4 +1,4 @@
-                                               ***All Stocks Analysis***
+ *All Stocks Analysis*
 
 **Overview**
 
@@ -13,9 +13,17 @@ From matching the overall performance of the stocks between year 2017 and 2018, 
 
   ***Script Improvement***
 
-Original Script
+Original Script Execution Timing
 
-Refactored Script
+https://github.com/umar-aziz513/stock-analysis/blob/main/Resources/Non-refactored%20Macro%20-%202017.PNG
+
+https://github.com/umar-aziz513/stock-analysis/blob/main/Resources/Non-refactored%20Macro%20-%202018.PNG
+
+Refactored Script Execution Timing
+
+https://github.com/umar-aziz513/stock-analysis/blob/main/Resources/VBA_CHALLEGE_2018.PNG
+
+https://github.com/umar-aziz513/stock-analysis/blob/main/Resources/VBA_CHALLENGE_2017.PNG
 
 As shown above, by making slight changes in the script, the execution time reduced by little more than 4 seconds for both years.
 
