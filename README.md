@@ -1,4 +1,4 @@
-                                                *All Stocks Analysis*
+                                               ***All Stocks Analysis***
 
 **Overview**
 
