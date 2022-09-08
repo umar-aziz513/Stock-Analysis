@@ -7,6 +7,8 @@ The secondary objective was to figure out a way to improve the vba script so the
 
 **Results**
 
+https://github.com/umar-aziz513/stock-analysis/blob/main/Stock%20Performance%20charts.PNG
+
 From matching the overall performance of the stocks between year 2017 and 2018, we can conclude that stock “ENPH” is the safest and most reliable stock to invest in, due to its consistency in increased return.  As shown above, in the tables, ENPH is the only stock that experienced an 80%+ increase in value for both the years, unlike majority of the stocks that significantly declined in value in the year 2018.  The makes ENPH the most stable stock.
 
   ***Script Improvement***
